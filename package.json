@@ -9,12 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "antd": "^5.3.1",
+    "classnames": "^2.3.2",
     "next": "13.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.59.3",
+    "styled-components": "^5.3.9"
   },
   "devDependencies": {
+    "@types/node": "18.15.3",
+    "@types/react": "18.0.28",
     "eslint": "8.36.0",
-    "eslint-config-next": "13.2.4"
+    "eslint-config-next": "13.2.4",
+    "typescript": "5.0.2"
   }
 }
